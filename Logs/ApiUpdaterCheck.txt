@@ -1,0 +1,1440 @@
+[api-updater (non-obsolete-error-filter)] 9/2/2021 12:24:15 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 471.1512ms
+moved types parse time: 51ms
+candidates parse time : 1ms
+C# parse time         : 321ms
+candidates check time : 188ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 1:11:45 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 73.0288ms
+moved types parse time: 60ms
+candidates parse time : 1ms
+C# parse time         : 236ms
+candidates check time : 68ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 1:24:45 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 62.9904ms
+moved types parse time: 46ms
+candidates parse time : 1ms
+C# parse time         : 182ms
+candidates check time : 51ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 1:53:50 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 63.0512ms
+moved types parse time: 46ms
+candidates parse time : 1ms
+C# parse time         : 189ms
+candidates check time : 49ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 1:53:53 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 54.8673ms
+moved types parse time: 46ms
+candidates parse time : 1ms
+C# parse time         : 181ms
+candidates check time : 45ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 2:24:04 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 867.756ms
+moved types parse time: 74ms
+candidates parse time : 1ms
+C# parse time         : 424ms
+candidates check time : 72ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 2:30:47 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 63.5097ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 205ms
+candidates check time : 57ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 7:27:19 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 181.5878ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 186ms
+candidates check time : 70ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 7:30:59 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 66.8682ms
+moved types parse time: 53ms
+candidates parse time : 1ms
+C# parse time         : 193ms
+candidates check time : 76ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 7:44:30 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 62.352ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 178ms
+candidates check time : 31ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 7:48:50 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 59.4736ms
+moved types parse time: 48ms
+candidates parse time : 1ms
+C# parse time         : 199ms
+candidates check time : 61ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 7:52:34 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 56.173ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 187ms
+candidates check time : 51ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 7:52:36 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 54.1461ms
+moved types parse time: 49ms
+candidates parse time : 1ms
+C# parse time         : 195ms
+candidates check time : 51ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 7:52:46 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 55.8511ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 195ms
+candidates check time : 51ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 7:52:47 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 57.6254ms
+moved types parse time: 46ms
+candidates parse time : 1ms
+C# parse time         : 193ms
+candidates check time : 48ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 7:52:56 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 54.8393ms
+moved types parse time: 45ms
+candidates parse time : 1ms
+C# parse time         : 186ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 7:56:13 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 59.2992ms
+moved types parse time: 49ms
+candidates parse time : 1ms
+C# parse time         : 201ms
+candidates check time : 51ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 7:56:14 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 61.8354ms
+moved types parse time: 48ms
+candidates parse time : 1ms
+C# parse time         : 191ms
+candidates check time : 50ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 8:01:25 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 59.8172ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 215ms
+candidates check time : 61ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 8:01:31 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 57.4397ms
+moved types parse time: 52ms
+candidates parse time : 1ms
+C# parse time         : 226ms
+candidates check time : 53ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 10:31:00 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 222.2748ms
+moved types parse time: 59ms
+candidates parse time : 1ms
+C# parse time         : 287ms
+candidates check time : 59ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 10:31:13 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 55.6386ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 204ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 10:39:25 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 54.4248ms
+moved types parse time: 45ms
+candidates parse time : 1ms
+C# parse time         : 180ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 10:39:30 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 46.8883ms
+moved types parse time: 46ms
+candidates parse time : 1ms
+C# parse time         : 196ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 10:44:59 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 62.6891ms
+moved types parse time: 46ms
+candidates parse time : 1ms
+C# parse time         : 217ms
+candidates check time : 59ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 10:45:08 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 57.8406ms
+moved types parse time: 48ms
+candidates parse time : 1ms
+C# parse time         : 193ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 10:45:12 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 64.1928ms
+moved types parse time: 62ms
+candidates parse time : 1ms
+C# parse time         : 280ms
+candidates check time : 69ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 10:45:39 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 60.3953ms
+moved types parse time: 55ms
+candidates parse time : 1ms
+C# parse time         : 258ms
+candidates check time : 63ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 10:47:24 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 57.6457ms
+moved types parse time: 54ms
+candidates parse time : 1ms
+C# parse time         : 242ms
+candidates check time : 62ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 10:47:27 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 82.3338ms
+moved types parse time: 68ms
+candidates parse time : 1ms
+C# parse time         : 288ms
+candidates check time : 102ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 10:47:30 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 75.9061ms
+moved types parse time: 69ms
+candidates parse time : 1ms
+C# parse time         : 277ms
+candidates check time : 89ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 10:47:35 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 69.3572ms
+moved types parse time: 59ms
+candidates parse time : 1ms
+C# parse time         : 276ms
+candidates check time : 89ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 10:47:37 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 71.7278ms
+moved types parse time: 69ms
+candidates parse time : 1ms
+C# parse time         : 271ms
+candidates check time : 89ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 10:47:42 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 70.8907ms
+moved types parse time: 68ms
+candidates parse time : 1ms
+C# parse time         : 281ms
+candidates check time : 95ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 10:48:11 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 62.5198ms
+moved types parse time: 46ms
+candidates parse time : 1ms
+C# parse time         : 187ms
+candidates check time : 68ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 10:48:16 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 62.4845ms
+moved types parse time: 45ms
+candidates parse time : 1ms
+C# parse time         : 197ms
+candidates check time : 66ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 10:48:21 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 62.4849ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 191ms
+candidates check time : 66ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 10:48:28 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 46.8992ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 183ms
+candidates check time : 66ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 10:48:58 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 62.4865ms
+moved types parse time: 45ms
+candidates parse time : 1ms
+C# parse time         : 178ms
+candidates check time : 65ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 10:56:20 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 46.8603ms
+moved types parse time: 48ms
+candidates parse time : 1ms
+C# parse time         : 185ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 10:56:22 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 53.6466ms
+moved types parse time: 45ms
+candidates parse time : 1ms
+C# parse time         : 193ms
+candidates check time : 50ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 10:56:47 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 55.6178ms
+moved types parse time: 48ms
+candidates parse time : 1ms
+C# parse time         : 199ms
+candidates check time : 43ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 10:56:48 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 55.4659ms
+moved types parse time: 50ms
+candidates parse time : 1ms
+C# parse time         : 178ms
+candidates check time : 50ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 11:02:51 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 50.1484ms
+moved types parse time: 46ms
+candidates parse time : 1ms
+C# parse time         : 192ms
+candidates check time : 45ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 11:03:06 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 59.561ms
+moved types parse time: 46ms
+candidates parse time : 1ms
+C# parse time         : 179ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 11:03:10 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 58.2091ms
+moved types parse time: 45ms
+candidates parse time : 1ms
+C# parse time         : 193ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 11:03:14 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 56.9024ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 184ms
+candidates check time : 43ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 11:06:54 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 50.0983ms
+moved types parse time: 46ms
+candidates parse time : 1ms
+C# parse time         : 188ms
+candidates check time : 48ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 11:32:26 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 46.8991ms
+moved types parse time: 45ms
+candidates parse time : 1ms
+C# parse time         : 202ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 11:32:53 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 59.3583ms
+moved types parse time: 50ms
+candidates parse time : 1ms
+C# parse time         : 185ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/2/2021 11:32:56 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 56.4664ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 182ms
+candidates check time : 56ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/3/2021 12:23:55 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 100.0245ms
+moved types parse time: 78ms
+candidates parse time : 1ms
+C# parse time         : 284ms
+candidates check time : 77ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/3/2021 12:25:07 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 62.5198ms
+moved types parse time: 46ms
+candidates parse time : 1ms
+C# parse time         : 189ms
+candidates check time : 57ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/3/2021 12:59:02 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 86.1984ms
+moved types parse time: 77ms
+candidates parse time : 1ms
+C# parse time         : 312ms
+candidates check time : 77ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/3/2021 1:06:17 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 83.0318ms
+moved types parse time: 77ms
+candidates parse time : 1ms
+C# parse time         : 298ms
+candidates check time : 78ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/3/2021 1:06:23 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 84.6313ms
+moved types parse time: 72ms
+candidates parse time : 1ms
+C# parse time         : 348ms
+candidates check time : 98ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/3/2021 1:06:33 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 93.8581ms
+moved types parse time: 81ms
+candidates parse time : 2ms
+C# parse time         : 424ms
+candidates check time : 97ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/3/2021 1:09:19 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 105.3279ms
+moved types parse time: 99ms
+candidates parse time : 2ms
+C# parse time         : 413ms
+candidates check time : 97ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/3/2021 1:09:21 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 94.787ms
+moved types parse time: 71ms
+candidates parse time : 1ms
+C# parse time         : 298ms
+candidates check time : 70ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/3/2021 1:10:52 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 92.52ms
+moved types parse time: 78ms
+candidates parse time : 1ms
+C# parse time         : 318ms
+candidates check time : 71ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/4/2021 7:54:28 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 709.1635ms
+moved types parse time: 59ms
+candidates parse time : 1ms
+C# parse time         : 326ms
+candidates check time : 48ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/4/2021 9:39:22 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 103.1226ms
+moved types parse time: 49ms
+candidates parse time : 1ms
+C# parse time         : 172ms
+candidates check time : 40ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/4/2021 9:39:32 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 69.5094ms
+moved types parse time: 54ms
+candidates parse time : 1ms
+C# parse time         : 187ms
+candidates check time : 40ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/4/2021 9:39:41 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 77.0357ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 189ms
+candidates check time : 43ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/4/2021 9:39:43 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 70.2687ms
+moved types parse time: 46ms
+candidates parse time : 1ms
+C# parse time         : 171ms
+candidates check time : 41ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/4/2021 9:40:17 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 70.7284ms
+moved types parse time: 46ms
+candidates parse time : 1ms
+C# parse time         : 169ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/4/2021 9:40:21 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 75.7974ms
+moved types parse time: 49ms
+candidates parse time : 1ms
+C# parse time         : 172ms
+candidates check time : 40ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/4/2021 9:55:20 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 85.33ms
+moved types parse time: 53ms
+candidates parse time : 1ms
+C# parse time         : 190ms
+candidates check time : 51ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/4/2021 9:56:05 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 85.7699ms
+moved types parse time: 51ms
+candidates parse time : 1ms
+C# parse time         : 185ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/4/2021 9:56:36 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 85.1088ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 181ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/4/2021 11:40:28 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 222.467ms
+moved types parse time: 61ms
+candidates parse time : 1ms
+C# parse time         : 241ms
+candidates check time : 51ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/4/2021 11:40:29 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 79.9132ms
+moved types parse time: 53ms
+candidates parse time : 1ms
+C# parse time         : 182ms
+candidates check time : 42ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/4/2021 11:41:41 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 76.4527ms
+moved types parse time: 49ms
+candidates parse time : 1ms
+C# parse time         : 179ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/4/2021 11:44:38 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 251.1958ms
+moved types parse time: 145ms
+candidates parse time : 4ms
+C# parse time         : 469ms
+candidates check time : 101ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 2:06:00 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 714.7448ms
+moved types parse time: 75ms
+candidates parse time : 1ms
+C# parse time         : 547ms
+candidates check time : 87ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 2:06:02 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 311.5614ms
+moved types parse time: 83ms
+candidates parse time : 1ms
+C# parse time         : 283ms
+candidates check time : 93ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 3:01:53 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 246.6405ms
+moved types parse time: 67ms
+candidates parse time : 1ms
+C# parse time         : 281ms
+candidates check time : 72ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 3:01:57 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 73.8014ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 185ms
+candidates check time : 64ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 3:02:00 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 69.1323ms
+moved types parse time: 48ms
+candidates parse time : 1ms
+C# parse time         : 208ms
+candidates check time : 54ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 3:08:40 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 128.138ms
+moved types parse time: 89ms
+candidates parse time : 2ms
+C# parse time         : 318ms
+candidates check time : 78ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 3:08:41 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 81.3027ms
+moved types parse time: 59ms
+candidates parse time : 1ms
+C# parse time         : 238ms
+candidates check time : 62ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 3:08:47 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 72.1791ms
+moved types parse time: 49ms
+candidates parse time : 1ms
+C# parse time         : 193ms
+candidates check time : 50ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 3:08:54 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 69.9123ms
+moved types parse time: 46ms
+candidates parse time : 1ms
+C# parse time         : 200ms
+candidates check time : 53ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 3:09:00 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 69.5061ms
+moved types parse time: 50ms
+candidates parse time : 1ms
+C# parse time         : 199ms
+candidates check time : 51ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 3:40:41 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 75.9108ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 191ms
+candidates check time : 49ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 3:40:44 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 69.7857ms
+moved types parse time: 50ms
+candidates parse time : 1ms
+C# parse time         : 198ms
+candidates check time : 53ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 3:48:12 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 70.8931ms
+moved types parse time: 49ms
+candidates parse time : 1ms
+C# parse time         : 181ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 3:49:17 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 76.9952ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 166ms
+candidates check time : 35ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 4:24:38 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 78.1529ms
+moved types parse time: 54ms
+candidates parse time : 1ms
+C# parse time         : 209ms
+candidates check time : 61ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 4:24:39 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 66.2903ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 197ms
+candidates check time : 66ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 4:24:41 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 70.1127ms
+moved types parse time: 46ms
+candidates parse time : 1ms
+C# parse time         : 187ms
+candidates check time : 59ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 4:24:42 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 68.9694ms
+moved types parse time: 46ms
+candidates parse time : 1ms
+C# parse time         : 197ms
+candidates check time : 54ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 4:24:46 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 72.2388ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 195ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 4:47:54 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 87.6119ms
+moved types parse time: 48ms
+candidates parse time : 1ms
+C# parse time         : 201ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 7:51:49 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 814.7015ms
+moved types parse time: 56ms
+candidates parse time : 1ms
+C# parse time         : 408ms
+candidates check time : 99ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 7:52:06 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 111.8958ms
+moved types parse time: 61ms
+candidates parse time : 1ms
+C# parse time         : 233ms
+candidates check time : 81ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 7:54:31 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 79.1569ms
+moved types parse time: 50ms
+candidates parse time : 1ms
+C# parse time         : 241ms
+candidates check time : 52ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 7:56:37 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 79.7185ms
+moved types parse time: 56ms
+candidates parse time : 1ms
+C# parse time         : 240ms
+candidates check time : 56ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 8:18:28 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 94.1299ms
+moved types parse time: 55ms
+candidates parse time : 1ms
+C# parse time         : 217ms
+candidates check time : 75ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 8:19:20 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 69.7708ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 199ms
+candidates check time : 64ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 8:19:23 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 69.841ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 217ms
+candidates check time : 60ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 8:26:51 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 92.7399ms
+moved types parse time: 62ms
+candidates parse time : 1ms
+C# parse time         : 256ms
+candidates check time : 61ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/5/2021 11:33:46 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 187.6514ms
+moved types parse time: 70ms
+candidates parse time : 1ms
+C# parse time         : 219ms
+candidates check time : 55ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/6/2021 12:05:45 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 77.6923ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 221ms
+candidates check time : 49ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/6/2021 12:19:53 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 91.2572ms
+moved types parse time: 72ms
+candidates parse time : 1ms
+C# parse time         : 200ms
+candidates check time : 70ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/6/2021 12:20:26 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 76.522ms
+moved types parse time: 48ms
+candidates parse time : 1ms
+C# parse time         : 182ms
+candidates check time : 43ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/6/2021 11:18:00 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 238.6299ms
+moved types parse time: 68ms
+candidates parse time : 1ms
+C# parse time         : 349ms
+candidates check time : 77ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/6/2021 12:30:15 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 77.0624ms
+moved types parse time: 59ms
+candidates parse time : 1ms
+C# parse time         : 195ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/6/2021 12:36:46 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 83.8664ms
+moved types parse time: 51ms
+candidates parse time : 1ms
+C# parse time         : 224ms
+candidates check time : 71ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/6/2021 12:37:10 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 70.9208ms
+moved types parse time: 49ms
+candidates parse time : 1ms
+C# parse time         : 218ms
+candidates check time : 62ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/6/2021 3:02:26 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 700.3697ms
+moved types parse time: 55ms
+candidates parse time : 1ms
+C# parse time         : 372ms
+candidates check time : 96ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/6/2021 3:04:41 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 76.529ms
+moved types parse time: 57ms
+candidates parse time : 1ms
+C# parse time         : 240ms
+candidates check time : 79ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/6/2021 5:22:29 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 157.2657ms
+moved types parse time: 49ms
+candidates parse time : 1ms
+C# parse time         : 202ms
+candidates check time : 62ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/6/2021 7:04:39 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 182.5267ms
+moved types parse time: 70ms
+candidates parse time : 2ms
+C# parse time         : 301ms
+candidates check time : 86ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 9:23:13 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1182.0087ms
+moved types parse time: 95ms
+candidates parse time : 2ms
+C# parse time         : 525ms
+candidates check time : 136ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 10:02:03 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 79.2618ms
+moved types parse time: 48ms
+candidates parse time : 1ms
+C# parse time         : 217ms
+candidates check time : 72ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 10:02:05 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 71.2914ms
+moved types parse time: 46ms
+candidates parse time : 1ms
+C# parse time         : 200ms
+candidates check time : 60ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 10:02:08 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 68.2607ms
+moved types parse time: 48ms
+candidates parse time : 1ms
+C# parse time         : 200ms
+candidates check time : 63ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 10:02:12 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 72.1123ms
+moved types parse time: 49ms
+candidates parse time : 1ms
+C# parse time         : 204ms
+candidates check time : 72ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 10:02:14 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 69.6947ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 209ms
+candidates check time : 79ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 10:02:16 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 70.5038ms
+moved types parse time: 52ms
+candidates parse time : 1ms
+C# parse time         : 206ms
+candidates check time : 83ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 10:02:19 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 81.3891ms
+moved types parse time: 49ms
+candidates parse time : 1ms
+C# parse time         : 201ms
+candidates check time : 62ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 10:02:48 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 69.2441ms
+moved types parse time: 47ms
+candidates parse time : 1ms
+C# parse time         : 212ms
+candidates check time : 67ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 2:11:26 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1468.0913ms
+moved types parse time: 147ms
+candidates parse time : 3ms
+C# parse time         : 718ms
+candidates check time : 208ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 2:11:38 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 119.6172ms
+moved types parse time: 80ms
+candidates parse time : 2ms
+C# parse time         : 372ms
+candidates check time : 120ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 2:11:41 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 177.6732ms
+moved types parse time: 110ms
+candidates parse time : 2ms
+C# parse time         : 474ms
+candidates check time : 166ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 2:12:41 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 95.7873ms
+moved types parse time: 64ms
+candidates parse time : 1ms
+C# parse time         : 273ms
+candidates check time : 97ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 2:23:36 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 123.6904ms
+moved types parse time: 102ms
+candidates parse time : 2ms
+C# parse time         : 388ms
+candidates check time : 97ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 2:23:41 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 126.2222ms
+moved types parse time: 86ms
+candidates parse time : 2ms
+C# parse time         : 413ms
+candidates check time : 97ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 5:28:32 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 673.202ms
+moved types parse time: 57ms
+candidates parse time : 1ms
+C# parse time         : 327ms
+candidates check time : 69ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 5:28:36 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 75.9076ms
+moved types parse time: 55ms
+candidates parse time : 1ms
+C# parse time         : 221ms
+candidates check time : 58ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 5:28:47 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 71.8169ms
+moved types parse time: 57ms
+candidates parse time : 1ms
+C# parse time         : 227ms
+candidates check time : 59ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 5:28:52 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 78.5486ms
+moved types parse time: 51ms
+candidates parse time : 1ms
+C# parse time         : 220ms
+candidates check time : 68ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 5:28:59 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 83.2638ms
+moved types parse time: 56ms
+candidates parse time : 1ms
+C# parse time         : 302ms
+candidates check time : 87ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 5:29:02 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 93.6081ms
+moved types parse time: 50ms
+candidates parse time : 1ms
+C# parse time         : 247ms
+candidates check time : 69ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 5:29:05 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 85.6013ms
+moved types parse time: 49ms
+candidates parse time : 1ms
+C# parse time         : 215ms
+candidates check time : 63ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 9:31:56 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 152.9851ms
+moved types parse time: 48ms
+candidates parse time : 1ms
+C# parse time         : 202ms
+candidates check time : 41ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 9:31:57 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 71.2015ms
+moved types parse time: 49ms
+candidates parse time : 1ms
+C# parse time         : 172ms
+candidates check time : 36ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/7/2021 9:32:19 PM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 87.079ms
+moved types parse time: 56ms
+candidates parse time : 1ms
+C# parse time         : 193ms
+candidates check time : 40ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/8/2021 1:01:32 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 664.8629ms
+moved types parse time: 51ms
+candidates parse time : 1ms
+C# parse time         : 318ms
+candidates check time : 71ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/8/2021 1:20:16 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 89.0372ms
+moved types parse time: 49ms
+candidates parse time : 1ms
+C# parse time         : 231ms
+candidates check time : 67ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/8/2021 1:40:02 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 74.5283ms
+moved types parse time: 48ms
+candidates parse time : 2ms
+C# parse time         : 211ms
+candidates check time : 59ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/8/2021 1:46:32 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 82.0182ms
+moved types parse time: 45ms
+candidates parse time : 1ms
+C# parse time         : 210ms
+candidates check time : 67ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 9/8/2021 9:16:08 AM : Starting C:/Users/tirth/Documents/GameDev/Installs/2020.3.16f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 630.1804ms
+moved types parse time: 53ms
+candidates parse time : 1ms
+C# parse time         : 297ms
+candidates check time : 38ms
+console write time    : 0ms
+
